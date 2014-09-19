@@ -1,0 +1,41 @@
+{
+  "name": "Fjalla One",
+  "designer": "Sorkin Type",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 21637,
+  "fonts": [
+    {
+      "name": "FjallaOne",
+      "style": "normal",
+      "weight": 400,
+      "filename": "FjallaOne-Regular-OTF.ttf",
+      "postScriptName": "FjallaOne",
+      "fullName": "FjallaOne",
+      "copyright": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Fjalla\" and Fjalla \"One\""
+    },
+    {
+      "name": "FjallaOne",
+      "style": "normal",
+      "weight": 400,
+      "filename": "FjallaOne-Regular-TTF.ttf",
+      "postScriptName": "FjallaOne",
+      "fullName": "FjallaOne",
+      "copyright": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Fjalla\" and Fjalla \"One\""
+    },
+    {
+      "name": "FjallaOne",
+      "style": "normal",
+      "weight": 400,
+      "filename": "FjallaOne-Regular.ttf",
+      "postScriptName": "FjallaOne",
+      "fullName": "FjallaOne",
+      "copyright": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Fjalla\" and Fjalla \"One\""
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2012-10-27"
+}
